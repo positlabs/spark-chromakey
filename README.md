@@ -1,7 +1,7 @@
 ## spark-chromakey
 
-Chromakey effect for Spark AR.
+Chromakey effect for Spark AR. Make any color transparent!
 
-[Tutorial on YouTube]()
+[Tutorial on YouTube](https://youtu.be/vPuObKf-55I)
 
-![](./screenshot.jpg)
+[![](./screenshot.jpg)](https://youtu.be/vPuObKf-55I)
